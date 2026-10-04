@@ -31,7 +31,3 @@ I build fast, production-ready web apps with **Next.js, React, TypeScript and Su
 | **[Gadget Sales Dashboard](https://github.com/KiramZodiac/gadget-sales-dashboard)** | Sales analytics: revenue, orders, product performance | React · Vite · Supabase | [Demo](https://gadget-sales-dashboard.vercel.app) |
 | **[Budget Tracker](https://github.com/KiramZodiac/budget-tracker)** | Personal finance tracker with spending charts | React · Supabase · Recharts | [Demo](https://budget-tracker-three-omega.vercel.app) |
 | **[Movie Site](https://github.com/KiramZodiac/movie-site)** | Movie discovery app with NextAuth sign-in | Next.js · NextAuth | [Demo](https://movie-site-flame.vercel.app) |
-
-## 📊 GitHub Stats
-
-![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiramZodiac&show_icons=true&theme=transparent&hide_border=true&count_private=true)
